@@ -1,1 +1,1 @@
-const openAIAPIKey = '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';
+const openAIAPIKey = 'Add-Your-OpenAI-API-Key-Here';
